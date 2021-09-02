@@ -1,9 +1,8 @@
 *.xml
 *.iml
 *.swp
-*.un~
-*.un
+*.swo
+*~
 Test.java
 .idea/
-.gitignore~
 
