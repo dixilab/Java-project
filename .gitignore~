@@ -1,0 +1,4 @@
+*.xml
+*.iml
+Test.java
+.idea/

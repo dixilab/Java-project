@@ -1,0 +1,9 @@
+*.xml
+*.iml
+*.swp
+*.un~
+*.un
+Test.java
+.idea/
+.gitignore~
+
