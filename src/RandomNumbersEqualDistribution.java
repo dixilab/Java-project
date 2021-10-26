@@ -1,3 +1,8 @@
+/* *
+ * 1.2.30. Random numbers with equal distribution /
+ * Случайные числа с равномерным распределением
+ * */
+
 public class RandomNumbersEqualDistribution
 {
     public static void main(String[] args)
