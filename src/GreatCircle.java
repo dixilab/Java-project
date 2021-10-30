@@ -1,3 +1,7 @@
+/* *
+ * 1.2.33. Great-сircle distance / Дуга большого круга
+ * */
+
 public class GreatCircle
 {
     public static void main(String[] args)
