@@ -1,3 +1,7 @@
+/* *
+ * 1.3.37. Random walker / Случайное блуждание на плоскости
+ * */
+
 public class RandomWalker
 {
     public static void main(String[] args)
